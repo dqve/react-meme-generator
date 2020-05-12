@@ -1,5 +1,8 @@
 {
-  "name": "c2KM8Qsr",
+  "name": "React Meme Generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "dependencies": {
     "react": "16.4.0",
     "react-dom": "16.13.0"
@@ -14,5 +17,8 @@
   "scripts": {
     "build": "webpack",
     "watch": "webpack -w"
-  }
+  },
+  "keywords": [],
+  "author": "David Ayo ⚡",
+  "license": "ISC"
 }
