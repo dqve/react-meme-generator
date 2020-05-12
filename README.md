@@ -1,4 +1,4 @@
-# React Meme Generator Capstone Project
+# React Meme Generator
 
 Quick start:
 
